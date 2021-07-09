@@ -1,0 +1,18 @@
+{
+	"name": "Salt Flats",
+	"version": "1.0",
+	"type": "map",
+	"ident": "wyvern.saltflats",
+	"sharedassets": "*.*",
+	"depends": [
+		"base"
+	],
+	"gamemodes": [
+		{
+			"icon": "icon.png",
+			"name": "saltflats",
+			"title": "Salt Flats",
+			"description": "Once a great body of water, this salt lake has dried into a large flat area."
+		}
+	]
+}
